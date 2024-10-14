@@ -7,7 +7,7 @@ General: In this repostiry I chose to use Meachine Learning model to give descri
 2. Create and Trained model form scrath.
 
 
-## The steps logic steps of :
+## The steps logic steps of way (2):
 
 - Extract features from image by pre-trained mode.
 - Decode the extract features to tokens by LSTM model.
