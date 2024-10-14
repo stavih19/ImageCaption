@@ -1,6 +1,6 @@
 # ImageCaption
 
-General: In this repostiry I chose to use Meachine Learning model to give description a input image.
+General: In this reconstruction I chose to use a Machine Learning model to give the description of the input image.
 
 ## Two Image Caption ways:
 1. Using HuggingFace as off-the-shelf models. 
@@ -9,9 +9,9 @@ General: In this repostiry I chose to use Meachine Learning model to give descri
 
 ## The steps logic steps of way (2):
 
-- Extract features from image by pre-trained mode.
+- Extract features from image by pre-trained model.
 - Decode the extract features to tokens by LSTM model.
-- Convert the tokes to words by dataset vocabliray.
+- Convert the tokes to words based on dataset vocabliray.
 
 ## Tech
 
@@ -23,7 +23,7 @@ Dillinger uses a number of open source projects to work properly:
 - [LSTM] - For decoding the features.
 
 ## Installation
-Useal libraries installaions.
+Usual libraries installaions.
 
 ## License
 
