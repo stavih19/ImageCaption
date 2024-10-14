@@ -2,7 +2,7 @@
 
 General: In this repostiry I chose to use Meachine Learning model to give description a input image.
 
-## I implemented two function to do Image Caption:
+## Two Image Caption ways:
 1. Using HuggingFace as off-the-shelf models. 
 2. Create and Trained model form scrath.
 
